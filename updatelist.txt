@@ -1,0 +1,7 @@
+Stormbringer	08-03-22
+plugins/Stormbringer/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-stormbringer/raw/main/plugininfo.txt	144316
+plugins/Stormbringer/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-stormbringer/raw/main/cardback.jpg	387772
+plugins/Stormbringer/sets/setimages/general/cardback-law.jpg	https://github.com/timothy-m-gillick/lackeyccg-stormbringer/raw/main/cardback-law.jpg	387772
+plugins/Stormbringer/sets/setimages/general/cardback-chaos.jpg	https://github.com/timothy-m-gillick/lackeyccg-stormbringer/raw/main/cardback-chaos.jpg	365472
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1A_hACG272CobQvxc0Po4JquCp-fIBja5?usp=sharing
